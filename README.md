@@ -40,5 +40,3 @@ Los tests se desarrollaron en un paquete dedicado, validando las reglas de negoc
 
 ## Autor
  [Facundo D’addese](https://www.linkedin.com/in/facundo-d-addese-797b241aa/)  estudiante de **Licenciatura en Sistemas** – Universidad Nacional de Lanús.
- 
- [GitHub](https://github.com/facudaddese?tab=repositories) | [facundo.daddese19@gmail.com](mailto:facundo.daddese19@gmail.com)  
